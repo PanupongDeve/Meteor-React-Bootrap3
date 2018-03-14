@@ -1,0 +1,25 @@
+{
+  "name": "Meteor-React-BootStrap",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "test": "meteor test --driver-package=practicalmeteor:mocha"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.36",
+    "bcrypt": "^1.0.3",
+    "bootstrap": "^4.0.0",
+    "meteor-node-stubs": "^0.3.2",
+    "moment": "^2.21.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "simple-schema": "^1.1.0"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "expect": "^22.4.0",
+    "react-addons-test-utils": "^15.6.2"
+  }
+}
